@@ -1,4 +1,4 @@
-## 🧠Algorithm 
+## 🧠 Algorithm 
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/generate_badge?boj=leehyeonsu4888)](https://solved.ac/leehyeonsu4888)
 
